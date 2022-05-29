@@ -11,7 +11,7 @@ import plotly.express as px
 from sklearn.cluster import KMeans
 
 #load dataset
-data = pd.read_csv("D:\microsoft\proj\cars_ds_final.csv.zip")
+data = pd.read_csv("cars_ds_final.csv.zip")
 
 #clean data i.e remove the redundancies
 def clean():
