@@ -12,4 +12,5 @@ This folder contains the files of my data analysis project
 7)plotly.express as px  
 8)sklearn.cluster  
 
+Project starts from the file proj.py
 Command to run the project: streamlit run streamlitnew\proj.py  
