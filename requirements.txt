@@ -4,4 +4,4 @@ numpy==1.22.4
 seaborn==0.11.2   
 matplotlib==3.5.2      
 plotly==5.8.0   
-sklearn.cluster
+sklearn
