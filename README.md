@@ -9,8 +9,8 @@ This folder contains the files of my data analysis project
 4)numpy as np  
 5)seaborn as sns  
 6)matplotlib   
-7)plotly.express
+7)plotly.express    
 8)sklearn.cluster  
 
-Project starts from the file proj.py   
+Project starts from the file proj.py       
 Command to run the project: streamlit run streamlitnew\proj.py  
